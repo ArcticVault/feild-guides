@@ -1,7 +1,7 @@
 # field-guides
 
 
-This is a collection of information from various sources. Our aim is to create a repo of various "feild-guides"
+This is a collection of information from various sources. Our aim is to create a repo of various "field guides"
 
 ### Why do I care? 
 
